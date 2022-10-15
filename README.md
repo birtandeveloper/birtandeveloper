@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Swift, SwiftUI and Flutter Projects**
 
-- 💬 Ask me about **Flutter and Dart**
+- 💬 Ask me about **Swift and Flutter Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
